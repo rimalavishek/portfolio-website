@@ -511,9 +511,9 @@ nav .container {
 }
 
 .skill-bar {
-  height: 100%;
-  background: var(--primary-color);
-  border-radius: 4px;
+  height: 8px;
+  background-color: #4caf50; /* green */
+  border-radius: 5px;
 }
 
 /* ===== PUBLICATIONS SECTION ===== */
