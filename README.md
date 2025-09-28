@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This site showcases my academic projec
 - **Data-Driven Reports** – Analysis and visualization using SPSS and Excel on agricultural and research data.
 
 ## 📬 Contact
-Feel free to reach out via [Email](mailto:rimalavishek180@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avishek-rimal-94779a325/).
+Feel free to reach out via [Email](mailto:rimalavishek180@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avishek-rimal/).
 
 ---
 
